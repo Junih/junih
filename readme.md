@@ -1,6 +1,6 @@
 # Artur Kowalski
 
-### Senior IT Business Analyst | Data Analyst | Data & AI Enthusiast
+### Senior IT Business Analyst | Data Analyst | AI Governance & Automation
 
 I help organizations turn complex business needs into clear, practical and data-driven solutions.
 
