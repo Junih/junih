@@ -43,11 +43,11 @@ Previously, I worked in Business Analyst and Market Data Analyst roles at **UBS*
 
 ## Certifications
 
-- **ITIL Foundation — Version 5** — PeopleCert
-- **ITIL AI Governance — Version 5** — PeopleCert
-- **Associate Data Engineer** — DataCamp
-- **Data Analyst** — DataCamp
-- **AI Fundamentals** — DataCamp
+- **ITIL Foundation - Version 5** - PeopleCert
+- **ITIL AI Governance - Version 5** - PeopleCert
+- **Associate Data Engineer** - DataCamp
+- **Data Analyst** - DataCamp
+- **AI Fundamentals** - DataCamp
 
 [View certificates and credentials](https://github.com/junih/certifications)
 
@@ -59,8 +59,8 @@ Specialization: Programming
 
 ## Languages
 
-**Polish** — Native  
-**English** — Fluent
+**Polish** - Native  
+**English** - Fluent
 
 ## Connect
 
