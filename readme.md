@@ -64,4 +64,4 @@ Specialization: Programming
 
 ## Connect
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/artur-kowalski-30199a159/?isSelfProfile=true)) · [Certifications](https://github.com/junih/certifications)
+[LinkedIn](https://www.linkedin.com/in/artur-kowalski-30199a159) · [Certifications](https://github.com/junih/certifications)
