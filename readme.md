@@ -49,7 +49,7 @@ Previously, I worked in Business Analyst and Market Data Analyst roles at **UBS*
 - **Data Analyst** — DataCamp
 - **AI Fundamentals** — DataCamp
 
-[View certificates and credentials](https://github.com/YOUR_USERNAME/certifications)
+[View certificates and credentials](https://github.com/junih/certifications)
 
 ## Education
 
@@ -64,4 +64,4 @@ Specialization: Programming
 
 ## Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Certifications](https://github.com/YOUR_USERNAME/certifications)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/artur-kowalski-30199a159/?isSelfProfile=true)) · [Certifications](https://github.com/junih/certifications)
